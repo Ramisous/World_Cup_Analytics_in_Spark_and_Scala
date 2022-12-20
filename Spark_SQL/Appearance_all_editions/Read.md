@@ -1,1 +1,0 @@
-choose the team that has participated in all editions of the world cup
