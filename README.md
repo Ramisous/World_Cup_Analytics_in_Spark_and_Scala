@@ -15,9 +15,7 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 	- [Spark RDD](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-RDD)
 	- [Spark SQL](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-SQL)
 	- [Spark DataFrames](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-DataFrames)
-	- [Miscellaneous](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Miscellaneous)
 * [Mentions](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Mentions)
-* [License](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#License)
 
 # Major Components
 
@@ -57,33 +55,21 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Which team has participated in every edition of the World Cup?](/Spark_SQL/Appearance_all_editions/)
 - [Which teams have won the most games in the history of the World Cup?](/Spark_SQL/Top_games_winner/)
 - [which stadiums have hosted games in two different editions?](/Spark_SQL/Stadium_hosting_2_editions/)
-- [Order the world cup editions according to the total number of goals scored.](Spark_SQL/Total_goals_per_edition)
+- [Which edition of the world cup has the highest number of goals scored?](Spark_SQL/Total_goals_per_edition)
 - [which team has won the world cup in each edition?](Spark_SQL/World_cup_winners/) 
 - [What are the percentages of winning and losing games after leading in the first half?](Spark_SQL/Leading_first_half_stats/)
 
 ## Spark RDD
-- [What are the top 10 most viewed movies?](/Spark_RDD/Top_10_Most_Viewed_Movies/)
-- [What are the distinct list of genres available?](/Spark_RDD/Distinct_Genres/)
-- [How many movies for each genre?](Spark_RDD/Movies_in_each_genre/)
-- [How many movies are starting with numbers or letters (Example: Starting with 1/2/3../A/B/C..Z)?](Spark_RDD/Movies_starting_with_Letters_or_Numbers/)
-- [List the latest released movies](Spark_RDD/Latest_movies/)
+- [Which teams have scored the most goals over all editions?](/Spark_RDD/Most_scoring_teams/)
+- [Which countries have the most referees over all editions?](/Spark_RDD/Referee_country/)
+- [Which editions have the largest number of total attendance?](Spark_RDD/Greatest_attendances/)
+- [Which teams have played the most games over all editions?](Spark_RDD/Most_playing_teams/)
 
 ## Spark DataFrames
 - [Prepare Movies data: Extracting the Year and Genre from the Text](Spark_DataFrames/prepare_movies_dat)
 - [Prepare Users data: Loading a double delimited csv file](Spark_DataFrames/prepare_users_dat)
 - [Prepare Ratings data: Programmatically specifying a schema for the dataframe](Spark_DataFrames/prepare_ratings_dat)
 
-## Miscellaneous
-- [Import Data from URL: Scala](/Miscellaneous/Import-File-From-URL)
-- [Save table without defining DDL in Hive](/Miscellaneous/Save-Table-Without-Explicit-DDL)
-- [Broadcast Variable example](/Miscellaneous/Broadcast-variable)
-- [Accumulator example](/Miscellaneous/Accumulator-Example)
-- [Databricks Community Edition](https://community.cloud.databricks.com/login.html)
-
-_**Note:** The results were collected and repartitioned into the same text file: This is not a recommended practice since performance is highly impacted but it is done here for the sake of readability._
-
 # Mentions
 This project was featured on [Data Machina Issue #130](https://www.getrevue.co/profile/datamachina/issues/data-machina-issue-130-112552) listed at number 3 under ScalaTOR. Thank you for the listing
 
-# License
-This repository is licensed under Apache License 2.0 - see [License](LICENSE.md) for more details
