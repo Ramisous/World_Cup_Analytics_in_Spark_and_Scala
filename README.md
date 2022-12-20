@@ -1,10 +1,3 @@
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala.svg?cache=remove)
-
-![Website](https://img.shields.io/website?up_message=my%20portfolio&url=https%3A%2F%2Frami28.pythonanywhere.com%2F)
 ![GitHub language count](https://img.shields.io/github/languages/count/Ramisous/World_Cup_Analytics_in_Spark_and_Scala?color=%23FFA500&logo=github)
 ![GitHub top language](https://img.shields.io/github/languages/top/Ramisous/World_Cup_Analytics_in_Spark_and_Scala?logo=Github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ramisous/World_Cup_Analytics_in_Spark_and_Scala?logo=Github)
