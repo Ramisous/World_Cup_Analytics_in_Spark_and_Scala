@@ -9,3 +9,7 @@ else
 	echo ""
 fi
 spark-shell -i appearance_all_editions.scala
+echo ""
+echo ""
+cat result/part*.csv
+echo ""
