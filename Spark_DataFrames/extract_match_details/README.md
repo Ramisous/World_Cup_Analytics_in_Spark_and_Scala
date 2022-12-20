@@ -1,6 +1,6 @@
 # Analytical Query
 
-**Prepare Movies.data: Cleaning delimited data & Extracting the Year and Genre from movies.dat**
+**Prepare Match results: Extracting the two team names and final score from the csv file**
 
 Run the following command in terminal
 ```
