@@ -10,8 +10,8 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 * [Environment](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Environment)
 * [Installation steps](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Installation-steps)
 * [Analytical Queries](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Analytical-Queries)
-	- [Spark RDD](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-RDD)
 	- [Spark SQL](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-SQL)
+	- [Spark RDD](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-RDD)
 	- [Spark DataFrames](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-DataFrames)
 * [Mentions](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Mentions)
 
