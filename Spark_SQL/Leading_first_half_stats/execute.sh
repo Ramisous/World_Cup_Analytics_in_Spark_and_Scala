@@ -9,3 +9,7 @@ else
 	echo ""
 fi
 spark-shell -i leading_first_half_stats.scala
+echo ""
+echo ""
+cat result/part*.csv
+echo ""
