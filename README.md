@@ -4,6 +4,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala.svg?cache=remove)
 
+![GitHub top language](https://img.shields.io/github/languages/top/Ramisous/World_Cup_Analytics_in_Spark_and_Scala)
+![GitHub language count](https://img.shields.io/github/languages/count/Ramisous/World_Cup_Analytics_in_Spark_and_Scala)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ramisous/World_Cup_Analytics_in_Spark_and_Scala)
+
 # Overview
 Solving analytical questions on the [World Cup Matches Dataset](https://www.kaggle.com/datasets/abecklas/fifa-world-cup) using Spark and Scala. This features the use of Spark RDD, Spark SQL and Spark Dataframes executed on Spark-Shell (REPL) using Scala API. We aim to draw useful insights about world cup history by leveraging different forms of Spark APIs.
 
