@@ -1,0 +1,1 @@
+select the team that won the world cup in each edition

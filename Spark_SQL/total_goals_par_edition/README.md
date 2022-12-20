@@ -1,0 +1,1 @@
+order the world cup editions according to the total number of goals scored 

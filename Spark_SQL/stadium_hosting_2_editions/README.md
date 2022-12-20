@@ -1,0 +1,1 @@
+selects the stadium that has hosted games in two different editions
