@@ -40,7 +40,7 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 
 1. Simply clone the repository
 	```
-	git clone https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala.git
+	git clone https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala.git
 	```
 2. In the repo, Navigate to Spark RDD, Spark SQL or Spark Dataframe locations as needed.
 
