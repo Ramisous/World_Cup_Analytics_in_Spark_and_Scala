@@ -9,3 +9,7 @@ else
 	echo ""
 fi
 spark-shell -i world_cup_winners.scala
+echo ""
+echo ""
+cat result/part*.csv
+echo ""
