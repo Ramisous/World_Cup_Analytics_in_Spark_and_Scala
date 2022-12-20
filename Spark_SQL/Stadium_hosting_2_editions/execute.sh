@@ -9,3 +9,7 @@ else
 	echo ""
 fi
 spark-shell -i stadium_hosting_2_editions.scala
+echo ""
+echo ""
+cat result/part*.csv
+echo ""
