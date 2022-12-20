@@ -31,10 +31,10 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 </p>
 
 # Environment
-* Linux (Ubuntu 15.04)
-* Hadoop 2.7.2
-* Spark 2.0.2
-* Scala 2.11
+* Linux
+* Hadoop 3.2.4
+* Spark 3.3.1
+* Scala 2.12
 
 # Installation steps
 
@@ -56,10 +56,10 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Create table for WorldCupMatches.csv](/Spark_SQL/sparkdatalake/): Saving Table with Spark SQL as Parquet file
 - [Which team has participated in every edition of the World Cup?](/Spark_SQL/Appearance_all_editions/)
 - [Which teams have won the most games in the history of the World Cup?](/Spark_SQL/Top_games_winner/)
-- [How many number of movies are there for each rating?](/Spark_SQL/movies_per_rating/)
-- [How many users have rach movie?](Spark_SQL/num_users_per_movie)
-- [What is the total rating for each movie?](Spark_SQL/total_rating_per_movie/) 
-- [What is the average rating for each movie?](Spark_SQL/average_rating_per_movie/)
+- [which stadiums have hosted games in two different editions?](/Spark_SQL/Stadium_hosting_2_editions/)
+- [Order the world cup editions according to the total number of goals scored.](Spark_SQL/Total_goals_per_edition)
+- [which team has won the world cup in each edition?](Spark_SQL/World_cup_winners/) 
+- [What are the percentages of winning and losing games after leading in the first half?](Spark_SQL/Leading_first_half_stats/)
 
 ## Spark RDD
 - [What are the top 10 most viewed movies?](/Spark_RDD/Top_10_Most_Viewed_Movies/)
