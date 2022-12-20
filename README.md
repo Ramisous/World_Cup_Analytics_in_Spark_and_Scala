@@ -54,7 +54,7 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Which teams have won the most games in the history of the World Cup?](/Spark_SQL/Top_games_winner/)
 - [which stadiums have hosted games in two different editions?](/Spark_SQL/Stadium_hosting_2_editions/)
 - [Which edition of the world cup has the highest number of goals scored?](Spark_SQL/Total_goals_per_edition)
-- [which team has won the world cup in each edition?](Spark_SQL/World_cup_winners/) 
+- [Which team has won the world cup in each edition?](Spark_SQL/World_cup_winners/) 
 - [What are the percentages of winning and losing games after leading in the first half?](Spark_SQL/Leading_first_half_stats/)
 
 ## Spark RDD
