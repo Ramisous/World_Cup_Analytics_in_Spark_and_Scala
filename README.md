@@ -66,8 +66,8 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Which teams have played the most games over all editions?](Spark_RDD/Most_playing_teams/)
 
 ## Spark DataFrames
-- [Prepare Match results: Extracting the two team names and final score from the csv file](Spark_DataFrames/extract_match_details)
-- [Prepare refree table: Loading the delimited csv file into a Dataframe and specifying the schema programmatically](Spark_DataFrames/prepare_refree_table)
+- [Prepare Match results](Spark_DataFrames/extract_match_details): Extracting the two team names and final score from the csv file
+- [Prepare refree table](Spark_DataFrames/prepare_refree_table): Loading the delimited csv file into a Dataframe and specifying the schema programmatically
 - [Save table in Hive](Spark_DataFrames/save_to_hive)
 
 # Mentions
