@@ -1,1 +1,9 @@
-select the team that won the world cup in each edition
+# Analytical Query
+
+**Select the world cup winner in each edition.**
+
+Run the following code to view output
+
+```
+sh execute.sh
+```
