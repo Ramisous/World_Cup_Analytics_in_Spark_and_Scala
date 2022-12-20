@@ -9,3 +9,7 @@ else
 	echo ""
 fi
 spark-shell -i total_goals_par_edition.scala
+echo ""
+echo ""
+cat result/part*.csv
+echo ""
