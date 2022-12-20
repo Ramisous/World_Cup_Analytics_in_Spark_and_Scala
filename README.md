@@ -69,7 +69,7 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Save table in Hive](Spark_DataFrames/save_to_hive)
 
 # Mentions
-This project was featured with [Kaggle](https://www.kaggle.com/) open source datasets. Thank you for the listing
+This project was featured with [Kaggle](https://www.kaggle.com/) open source datasets. Thank you for the listing.
 
 
 
