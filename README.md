@@ -63,7 +63,7 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 - [Find the list of the oldest released movies.](/Spark_SQL/list_of_the_oldest_movies/)
 - [How many movies are released each year?](/Spark_SQL/movies_each_year/)
 - [How many number of movies are there for each rating?](/Spark_SQL/movies_per_rating/)
-- [How many users have rated each movie?](Spark_SQL/num_users_per_movie)
+- [How many users have rach movie?](Spark_SQL/num_users_per_movie)
 - [What is the total rating for each movie?](Spark_SQL/total_rating_per_movie/) 
 - [What is the average rating for each movie?](Spark_SQL/average_rating_per_movie/)
 
