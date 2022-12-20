@@ -71,5 +71,7 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Save table in Hive](Spark_DataFrames/save_to_hive)
 
 # Mentions
-This project was featured on [Data Machina Issue #130](https://www.getrevue.co/profile/datamachina/issues/data-machina-issue-130-112552) listed at number 3 under ScalaTOR. Thank you for the listing
+This project was featured with [Kaggle](https://www.kaggle.com/) data source. Thank you for the listing
+
+
 
