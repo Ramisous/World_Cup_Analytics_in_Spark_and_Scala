@@ -66,9 +66,9 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Which teams have played the most games over all editions?](Spark_RDD/Most_playing_teams/)
 
 ## Spark DataFrames
-- [Prepare Movies data: Extracting the Year and Genre from the Text](Spark_DataFrames/prepare_movies_dat)
-- [Prepare Users data: Loading a double delimited csv file](Spark_DataFrames/prepare_users_dat)
-- [Prepare Ratings data: Programmatically specifying a schema for the dataframe](Spark_DataFrames/prepare_ratings_dat)
+- [Prepare Match results: Extracting the two team names and final score from the csv file](Spark_DataFrames/extract_match_details)
+- [Prepare refree table: Loading the delimited csv file into a Dataframe and specifying the schema programmatically](Spark_DataFrames/prepare_refree_table)
+- [Save table in Hive](Spark_DataFrames/save_to_hive)
 
 # Mentions
 This project was featured on [Data Machina Issue #130](https://www.getrevue.co/profile/datamachina/issues/data-machina-issue-130-112552) listed at number 3 under ScalaTOR. Thank you for the listing
