@@ -5,7 +5,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala.svg?cache=remove)
 
 # Overview
-Solving analytical questions on the [World Cup Matches Dataset](https://grouplens.org/datasets/movielens/1m/) using Spark and Scala. This features the use of Spark RDD, Spark SQL and Spark Dataframes executed on Spark-Shell (REPL) using Scala API. We aim to draw useful insights about world cup history by leveraging different forms of Spark APIs.
+Solving analytical questions on the [World Cup Matches Dataset](https://www.kaggle.com/datasets/abecklas/fifa-world-cup) using Spark and Scala. This features the use of Spark RDD, Spark SQL and Spark Dataframes executed on Spark-Shell (REPL) using Scala API. We aim to draw useful insights about world cup history by leveraging different forms of Spark APIs.
 
 # Table of Contents
 * [Components](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Major-Components)
@@ -52,21 +52,21 @@ Solving analytical questions on the [World Cup Matches Dataset](https://grouplen
 
 # Analytical Queries
 
+## Spark SQL
+- [Create table for WorldCupMatches.csv](/Spark_SQL/sparkdatalake/): Saving Table with Spark SQL as Parquet file
+- [Which team has participated in every edition of the World Cup?](/Spark_SQL/Appearance_all_editions/)
+- [Which teams have won the most games in the history of the World Cup?](/Spark_SQL/Top_games_winner/)
+- [How many number of movies are there for each rating?](/Spark_SQL/movies_per_rating/)
+- [How many users have rach movie?](Spark_SQL/num_users_per_movie)
+- [What is the total rating for each movie?](Spark_SQL/total_rating_per_movie/) 
+- [What is the average rating for each movie?](Spark_SQL/average_rating_per_movie/)
+
 ## Spark RDD
 - [What are the top 10 most viewed movies?](/Spark_RDD/Top_10_Most_Viewed_Movies/)
 - [What are the distinct list of genres available?](/Spark_RDD/Distinct_Genres/)
 - [How many movies for each genre?](Spark_RDD/Movies_in_each_genre/)
 - [How many movies are starting with numbers or letters (Example: Starting with 1/2/3../A/B/C..Z)?](Spark_RDD/Movies_starting_with_Letters_or_Numbers/)
 - [List the latest released movies](Spark_RDD/Latest_movies/)
-
-## Spark SQL
-- [Create tables for movies.dat, users.dat and ratings.dat](/Spark_SQL/sparkdatalake/): Saving Tables from Spark SQL
-- [Find the list of the oldest released movies.](/Spark_SQL/list_of_the_oldest_movies/)
-- [How many movies are released each year?](/Spark_SQL/movies_each_year/)
-- [How many number of movies are there for each rating?](/Spark_SQL/movies_per_rating/)
-- [How many users have rach movie?](Spark_SQL/num_users_per_movie)
-- [What is the total rating for each movie?](Spark_SQL/total_rating_per_movie/) 
-- [What is the average rating for each movie?](Spark_SQL/average_rating_per_movie/)
 
 ## Spark DataFrames
 - [Prepare Movies data: Extracting the Year and Genre from the Text](Spark_DataFrames/prepare_movies_dat)
