@@ -5,19 +5,19 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala.svg?cache=remove)
 
 # Overview
-Solving analytical questions on the semi-structured [MovieLens dataset](https://grouplens.org/datasets/movielens/1m/) containing a million records using Spark and Scala. This features the use of Spark RDD, Spark SQL and Spark Dataframes executed on Spark-Shell (REPL) using Scala API. We aim to draw useful insights about users and movies by leveraging different forms of Spark APIs.
+Solving analytical questions on the [World Cup Matches Dataset](https://grouplens.org/datasets/movielens/1m/) using Spark and Scala. This features the use of Spark RDD, Spark SQL and Spark Dataframes executed on Spark-Shell (REPL) using Scala API. We aim to draw useful insights about world cup history by leveraging different forms of Spark APIs.
 
 # Table of Contents
-* [Components](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Major-Components)
-* [Environment](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Environment)
-* [Installation steps](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Installation-steps)
-* [Analytical Queries](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Analytical-Queries)
-	- [Spark RDD](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Spark-RDD)
-	- [Spark SQL](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Spark-SQL)
-	- [Spark DataFrames](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Spark-DataFrames)
-	- [Miscellaneous](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Miscellaneous)
-* [Mentions](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#Mentions)
-* [License](https://github.com/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala#License)
+* [Components](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Major-Components)
+* [Environment](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Environment)
+* [Installation steps](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Installation-steps)
+* [Analytical Queries](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Analytical-Queries)
+	- [Spark RDD](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-RDD)
+	- [Spark SQL](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-SQL)
+	- [Spark DataFrames](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-DataFrames)
+	- [Miscellaneous](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Miscellaneous)
+* [Mentions](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Mentions)
+* [License](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#License)
 
 # Major Components
 
@@ -26,9 +26,10 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 		<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark Logo" title="Apache Spark" width=275 hspace=80 />
 	</a>
 	<a href="#">
-		<img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" alt="Scala" title="Scala" width ="90" />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" title="Scala" width ="275" />
 	</a>
 </p>
+
 # Environment
 * Linux (Ubuntu 15.04)
 * Hadoop 2.7.2
