@@ -8,7 +8,7 @@ else
 	echo "Executing script"
 	echo ""
 fi
-spark-shell -i refree_country.scala
+spark-shell -i referee_country.scala
 echo ""
 echo "top 10 countries with the highest number of referees are:"
 echo ""
