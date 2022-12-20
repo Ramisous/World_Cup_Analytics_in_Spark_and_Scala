@@ -1,6 +1,6 @@
 # Analytical Query
 
-**Select the stadium that has hosted games in two different editions**
+**Select the stadiums that have hosted games in two different editions.**
 
 Run the following code to view output
 
