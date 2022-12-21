@@ -52,7 +52,7 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 - [Create table for WorldCupMatches.csv](/Spark_SQL/sparkdatalake/): Saving Table with Spark SQL as Parquet file
 - [Which team has participated in every edition of the World Cup?](/Spark_SQL/Appearance_all_editions/)
 - [Which teams have won the most games in the history of the World Cup?](/Spark_SQL/Top_games_winner/)
-- [which stadiums have hosted games in two different editions?](/Spark_SQL/Stadium_hosting_2_editions/)
+- [Which stadiums have hosted games in two different editions?](/Spark_SQL/Stadium_hosting_2_editions/)
 - [Which edition of the world cup has the highest number of goals scored?](Spark_SQL/Total_goals_per_edition)
 - [Which team has won the world cup in each edition?](Spark_SQL/World_cup_winners/) 
 - [What are the percentages of winning and losing games after leading in the first half?](Spark_SQL/Leading_first_half_stats/)
