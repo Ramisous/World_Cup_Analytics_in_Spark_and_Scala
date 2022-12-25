@@ -32,5 +32,3 @@ split(value,':::')[19] as Away_Team_Initials
 from worldCupMatches """).write.mode("overwrite").saveAsTable("sparkdatalake.worldCupMatches");
 
 System.exit(0) 
-
-
