@@ -7,16 +7,3 @@ group by Year
 order by total_goals desc """).repartition(1).write.format("csv").option("header","true").save("result")
 
 System.exit(0)
-
-
-
-
-
-
-
- 
-
-
-
- 
-
