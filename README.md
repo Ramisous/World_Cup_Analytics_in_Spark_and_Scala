@@ -1,19 +1,19 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Ramisous/World_Cup_Analytics_in_Spark_and_Scala?color=%23FFA500&logo=github)
-![GitHub top language](https://img.shields.io/github/languages/top/Ramisous/World_Cup_Analytics_in_Spark_and_Scala?logo=Github)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ramisous/World_Cup_Analytics_in_Spark_and_Scala?logo=Github)
+![GitHub top language](https://img.shields.io/github/languages/top/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala?logo=Github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala?logo=Github)
 
 # Overview
 Solving analytical questions on the [World Cup Matches Dataset](https://www.kaggle.com/datasets/abecklas/fifa-world-cup) using Spark and Scala. This features the use of Spark RDD, Spark SQL and Spark Dataframes executed on Spark-Shell (REPL) using Scala API. We aim to draw useful insights about world cup history by leveraging different forms of Spark APIs.
 
 # Table of Contents
-* [Components](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Major-Components)
-* [Environment](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Environment)
-* [Installation steps](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Installation-steps)
-* [Analytical Queries](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Analytical-Queries)
-	- [Spark SQL](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-SQL)
-	- [Spark RDD](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-RDD)
-	- [Spark DataFrames](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Spark-DataFrames)
-* [Mentions](https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala#Mentions)
+* [Components](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Major-Components)
+* [Environment](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Environment)
+* [Installation steps](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Installation-steps)
+* [Analytical Queries](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Analytical-Queries)
+	- [Spark SQL](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Spark-SQL)
+	- [Spark RDD](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Spark-RDD)
+	- [Spark DataFrames](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Spark-DataFrames)
+* [Mentions](https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala#Mentions)
 
 # Major Components
 
@@ -36,7 +36,7 @@ Solving analytical questions on the [World Cup Matches Dataset](https://www.kagg
 
 1. Simply clone the repository
 	```
-	git clone https://github.com/Ramisous/World_Cup_Analytics_in_Spark_and_Scala.git
+	git clone https://github.com/Ramisoussi/World_Cup_Analytics_in_Spark_and_Scala.git
 	```
 2. In the repo, Navigate to Spark RDD, Spark SQL or Spark Dataframe locations as needed.
 
